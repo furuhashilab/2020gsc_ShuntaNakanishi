@@ -85,5 +85,26 @@
  現時点ではDJIの機体は標高表示が出ていなく判別ができない。山を超えると一気に風が強まったり風向が変わったりしてドローンが墜落する危険がある。今後はGoogle Earth や高度計測アプリを使い、風計測アプリ「WINDY」を使いつつドローンを飛ばす必要があると感じた。
  <br>
  2013年10月の台風26号「ウィパー」による大雨で発生した大規模土砂災害では、土砂と共に流された流木によって家屋を破壊し、甚大な被害をもたらした。放置林は土砂災害の被害の拡大の要因となり再び甚大な被害が発生する恐れがある。今回の研究では2019年の台風15号「ファクサイ」で破壊された杉林上空を撮影し、規模を実際に確認した。日本の森の45%は人工的に作られたものである。したがって、この放置林問題は大島だけの問題ではなく近い将来全国的な問題、国の問題となる可能性がある。
+ 
+## 参考文献・資料（Reference）
 
+## 謝辞(Acknowledgements)
+ 本研究を進めるにあたり一般社団法人 大島観光協会の岡田雅司氏、古橋大地教授をはじめ多くの方々より多大な助言を賜りました。また、機材をお貸しいただきましたこと厚く感謝を申し上げます。
+
+以上
+
+### 2021年1月31日　中西 駿太　CC-BY4.0
+
+##  【2019年度ゼミ論】提出用アブストラクトテンプレート
+<https://docs.google.com/document/d/1KfSXGZBQiaCGRfeZd1FUqmKYyyC4St-sngWdurVmMyg/edit><url>
+
+## 【2019年度ゼミ論】最終発表プレゼンテーションスライド（発表資料）
+<https://docs.google.com/presentation/d/12iliqqHktTDtfnBB0Cv85Cs_NCbHYGsr8i4fm4gFYS8/edit#slide=id.gb879b798de_0_334><url>
+
+## 伊豆大島ドローン空撮映像　Short Var.
+<https://drive.google.com/open?id=1ulf94V2i-NCVKKYpK-4FfEzAZuMMvSZr><url>
+ 
+## 差木地地区放置林空撮映像
+<https://drive.google.com/file/d/1WbrxgNjSzOHnkW6kRBBnceS085hNp48C/view?usp=sharing><url>
+ 
 © Furuhashi Laboratory/Shunta Nakanishi, CC BY 4.0
