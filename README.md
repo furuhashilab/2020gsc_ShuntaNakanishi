@@ -95,10 +95,10 @@
 
 ### 2021年1月31日　中西 駿太　CC-BY4.0
 
-##  【2019年度ゼミ論】提出用アブストラクトテンプレート
+##  【2020年度ゼミ論】提出用アブストラクトテンプレート
 <https://docs.google.com/document/d/1KfSXGZBQiaCGRfeZd1FUqmKYyyC4St-sngWdurVmMyg/edit><url>
 
-## 【2019年度ゼミ論】最終発表プレゼンテーションスライド（発表資料）
+## 【2020年度ゼミ論】最終発表プレゼンテーションスライド（発表資料）
 <https://docs.google.com/presentation/d/12iliqqHktTDtfnBB0Cv85Cs_NCbHYGsr8i4fm4gFYS8/edit#slide=id.gb879b798de_0_334><url>
 
 ## 伊豆大島ドローン空撮映像　Short Var.
