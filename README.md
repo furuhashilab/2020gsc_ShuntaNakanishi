@@ -80,7 +80,7 @@
 
 ## 結論・課題(Conclusion)
  今回の研究で調査を進める中で、ドローンを飛ばす際にどのように”三原山の影”に入るかという点と、大島で深刻化しつつある「放置林問題」が今後課題となることが浮き彫りになった。
- ![gif](https://www.town.oshima.tokyo.jp/uploaded/attachment/2243.pdf)
+![gif](https://www.town.oshima.tokyo.jp/uploaded/attachment/2243.jpg)
  <br>
  現時点ではDJIの機体は標高表示が出ていなく判別ができない。山を超えると一気に風が強まったり風向が変わったりしてドローンが墜落する危険がある。今後はGoogle Earth や高度計測アプリを使い、風計測アプリ「WINDY」を使いつつドローンを飛ばす必要があると感じた。
  <br>
