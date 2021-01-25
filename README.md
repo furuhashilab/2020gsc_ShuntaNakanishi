@@ -133,6 +133,11 @@ Pix4D capture オートパイロット設定
 二子山の斜面が崩れ、その土砂が今回撮影した差木地地区の放置林を巻き込み、差木地地区、波浮地区の市街地を襲う危険がある。
 ![gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmvNBywbXWgtg3CJTSFNMZJo-r_rpgoX3jTw&usqp=CAU)
 <br>
+
+大島町土砂災害ハザードマップについて - 東京都大島町公式サイト
+https://www.town.oshima.tokyo.jp/soshiki/bousai/hazardmap.html
+<br>
+
 ハザードマップには放置林については記述なし。住民への周知については、まだまだ情報が足りないという印象を持つ。
 <br>
 差木地地区の放置林は破壊が進んでいる。生育範囲は広範囲に渡り、放置林を巻き込んだ土砂が差木地地区や波浮地区を飲み込み、2013年のような大規模土砂災害が起きる可能性がある。
