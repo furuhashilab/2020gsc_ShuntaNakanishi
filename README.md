@@ -164,7 +164,9 @@ Pix4D capture オートパイロット設定
 岡田雅司さん、お世話になりました。　また、機材を貸していただきありがとうございました。
 
 ## 参考文献・資料（Reference）
-
+ 参考文献・資料スプレッドシート
+ <https://docs.google.com/spreadsheets/d/1UxqLwxkaXMfC04E1gKaVtoxvYNwJS-VZfzXktRpjhoY/edit#gid=0><url>
+ 
 ## 謝辞(Acknowledgements)
  本研究を進めるにあたり一般社団法人 大島観光協会の岡田雅司氏、古橋大地教授をはじめ多くの方々より多大な助言を賜りました。また、機材をお貸しいただきましたこと厚く感謝を申し上げます。
 
@@ -176,7 +178,7 @@ Pix4D capture オートパイロット設定
 <https://docs.google.com/document/d/1KfSXGZBQiaCGRfeZd1FUqmKYyyC4St-sngWdurVmMyg/edit><url>
 
 ## 【2020年度ゼミ論】最終発表プレゼンテーションスライド（発表資料）
-<https://docs.google.com/presentation/d/12iliqqHktTDtfnBB0Cv85Cs_NCbHYGsr8i4fm4gFYS8/edit#slide=id.gb879b798de_0_334><url>
+<https://docs.google.com/presentation/d/12iliqqHktTDtfnBB0Cv85Cs_NCbHYGsr8i4fm4gFYS8/edit?usp=sharing><url>
 
 ## 伊豆大島ドローン空撮映像　Short Var.
 <https://drive.google.com/open?id=1ulf94V2i-NCVKKYpK-4FfEzAZuMMvSZr><url>
