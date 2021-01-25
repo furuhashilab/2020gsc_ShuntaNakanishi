@@ -215,4 +215,7 @@ Pix4D capture オートパイロット設定
 ## 差木地地区放置林空撮映像
 <https://drive.google.com/file/d/1WbrxgNjSzOHnkW6kRBBnceS085hNp48C/view?usp=sharing><url>
  
+## Github プロジェクト
+<https://github.com/furuhashilab/sotsuron2020/projects/7><url>
+ 
 © Furuhashi Laboratory/Shunta Nakanishi, CC BY 4.0
