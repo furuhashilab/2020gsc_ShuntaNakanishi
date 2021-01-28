@@ -62,6 +62,9 @@ Pix4D capture オートパイロット設定
  (差木地地区　放置林空撮映像)
 <https://drive.google.com/file/d/1WbrxgNjSzOHnkW6kRBBnceS085hNp48C/view?usp=sharing><url>
  
+ (差木地地区　 放置林 コドラート方　考察画像)
+ soon
+ 
 その他撮影動画や観光内容等詳細は随時ゼミ論本文内添付の資料に記載。
  <br>
  
@@ -142,6 +145,12 @@ https://www.town.oshima.tokyo.jp/soshiki/bousai/hazardmap.html
 <br>
 差木地地区の放置林は破壊が進んでいる。生育範囲は広範囲に渡り、放置林を巻き込んだ土砂が差木地地区や波浮地区を飲み込み、2013年のような大規模土砂災害が起きる可能性がある。
 <br>
+
+□差木地地区　 放置林 コドラート方　考察
+<br>
+
+soon
+
 □放置林の危険性、課題
 <br>
 
